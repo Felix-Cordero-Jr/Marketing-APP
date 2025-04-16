@@ -12,7 +12,7 @@ export default function WebsiteManagement({ websites, addWebsite, selectWebsite,
 
   return (
     <div>
-      <h2>Manage Websites</h2>
+      <h2>Managing Business Websites</h2>
       <input
         type="text"
         placeholder="Enter website URL"
